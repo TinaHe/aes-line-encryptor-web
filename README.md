@@ -27,3 +27,5 @@ A lightweight browser-based AES tool for line-by-line encryption and decryption.
 ## License
 
 MIT
+
+<img width="1070" height="698" alt="image" src="https://github.com/user-attachments/assets/00b05383-54d0-4342-b701-7ce1163b1e6d" />
