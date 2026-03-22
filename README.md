@@ -28,4 +28,4 @@ A lightweight browser-based AES tool for line-by-line encryption and decryption.
 
 MIT
 
-<img width="1070" height="698" alt="image" src="https://github.com/user-attachments/assets/00b05383-54d0-4342-b701-7ce1163b1e6d" />
+<img width="1067" height="668" alt="image" src="https://github.com/user-attachments/assets/a4e14ecf-8356-4d4f-b1e9-948a890b1438" />
