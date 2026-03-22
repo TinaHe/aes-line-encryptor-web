@@ -2,6 +2,10 @@
 
 A lightweight browser-based AES tool for line-by-line encryption and decryption.
 
+## Live Demo
+
+- Vercel: https://aes-web-tool.vercel.app/
+
 ## Features
 
 - AES-GCM encryption/decryption using Web Crypto API
